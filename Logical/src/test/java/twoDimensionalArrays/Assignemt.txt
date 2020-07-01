@@ -1,0 +1,5 @@
+1)Write a java program to find diagonal wise biggest element & biggest element from upper & lower triangle wrt primary diagonal.
+2)Write a java program to find row wise & column wise sum.
+3)Write a java program to find primary & secondary diagonal biggest element.
+4)Write a java program to calculate row wise & column wise smallest element.
+5)Write a java program to multiply two matrices.
