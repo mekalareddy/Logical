@@ -1,0 +1,5 @@
+1)Write a java program to display the distinct element & common element between two arrays.
+2)Write a java program to display the words in initcap(initial letter is capital)
+3)Write a java program to print the characters in sorted manner without comparing each other.
+4)Write a java program to check substring is present in the main string (or) not.
+5)Write a java program to count how many times a substring is present in the main string.
