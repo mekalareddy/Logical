@@ -28,7 +28,7 @@ public class Matrix {
 	void displayMatrix(int ar[][]) {
 		for(int i=0; i<ar.length; i++) {
 			for(int j=0; j<ar[i].length; j++) {
-				System.out.println(ar[i][j]+" ");
+				System.out.print(ar[i][j]+" ");
 			}
 			System.out.println();
 		}
